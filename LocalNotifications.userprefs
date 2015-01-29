@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="LocalNotifications/LocalNotifications.Plugin/LocalNotifications.Plugin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LocalNotifications/LocalNotifications.Plugin.iOS/LocalNotifier.cs">
+    <Files>
+      <File FileName="LocalNotifications/LocalNotifications.Plugin/CrossLocalNotifications.cs" Line="1" Column="1" />
+      <File FileName="LocalNotifications/LocalNotifications.Plugin.iOS/LocalNotifier.cs" Line="17" Column="17" />
+      <File FileName="LocalNotifications/LocalNotifications.Plugin.iOSUnified/Extensiones.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="carlos baez" Email="jbaez@outlook.com" Copyright="carlos baez" Company="" Trademark="" />
+</Properties>
